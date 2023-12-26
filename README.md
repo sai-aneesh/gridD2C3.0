@@ -3,6 +3,8 @@ This repo belongs to IITB folks working on flipkart Grid3.0 D2C
 
 Stucture of the Project:
 ![Flowchart](Flowchart.jpg)
+
+
 To run the bot:
 
 step1: roslaunch bot_description view_urdf.launch
